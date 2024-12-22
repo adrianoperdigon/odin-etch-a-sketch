@@ -1,5 +1,9 @@
+:root{
+
+}
 body{
     background-color: antiquewhite;
+    font-size: 32px;
 }
 #header{
 margin: auto 1rem;
@@ -28,6 +32,6 @@ display: flex;
 }
 .easSquare{
 
-width: 0.5rem;
-height: 0.5rem;
+width: 0.7rem;
+height: 0.7rem;
 }

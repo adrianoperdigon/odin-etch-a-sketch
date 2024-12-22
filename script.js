@@ -19,7 +19,7 @@ function createGrid(squareAmount){
         }
     }
 }
-createGrid(16)
+createGrid(48)
 
     const asignListeners = ()=>{
     const easSquares = document.querySelectorAll(".easSquare");
